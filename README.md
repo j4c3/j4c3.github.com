@@ -1,2 +1,2 @@
-j4c3.github.com
+j4c3.github.io
 
